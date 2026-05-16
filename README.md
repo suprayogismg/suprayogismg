@@ -1,4 +1,4 @@
-# Hi, I'm Supra Yogi 👋
+# Hi, I'm Supra Yogi
 
 Fullstack Developer specializing in:
 
