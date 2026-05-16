@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Supra Yogi 👋
 
-<!--
-**suprayogismg/suprayogismg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer specializing in:
 
-Here are some ideas to get you started:
+- Healthcare Information Systems
+- SATUSEHAT Integration
+- Desktop Application
+- Laravel Web Development
+- VPS & Linux Server Administration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### NRKB Administration System
+Laravel-based vehicle registration administration system.
+
+### Desktop RME Clinic System
+Desktop-based Electronic Medical Record system for clinic operations.
+
+### SATUSEHAT SSP Integration Dashboard
+Monitoring dashboard for SATUSEHAT FHIR resource delivery.
+
+## Tech Stack
+
+- PHP / Laravel
+- Java Desktop
+- MySQL
+- Linux VPS
+- REST API
+- FHIR R4
+- Bootstrap
+- JasperReport
+
+## GitHub Stats
+
+(automatically generated later)
