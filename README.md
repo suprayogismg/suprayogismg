@@ -32,7 +32,11 @@ Monitoring dashboard for SATUSEHAT FHIR resource delivery.
 
 ## GitHub Stats
 
-![Suprayogi GitHub stats](https://github-readme-stats.vercel.app/api?username=suprayogismg&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=suprayogismg&color=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suprayogismg&layout=compact)
+- Public repositories: 6+
+- Healthcare Information Systems Developer
+- SATUSEHAT FHIR Integration Developer
+- Java Desktop & Laravel Developer
+- VPS & Linux Administration
 
