@@ -31,5 +31,9 @@ Monitoring dashboard for SATUSEHAT FHIR resource delivery.
 - JasperReport
 
 ## GitHub Stats
+## GitHub Stats
 
-(automatically generated later)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suprayogismg&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suprayogismg&layout=compact)
+
